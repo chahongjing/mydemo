@@ -1,2 +1,2 @@
 # mydemo
-demo合集
+1. spring + redis分布式session方案
