@@ -1,7 +1,7 @@
 @echo off
 title mydemo push
 echo.
-set /p comment=ÇëÊäÈë±¸×¢:
+set /p comment=è¾“å…¥å¤‡æ³¨:
 git commit -m %comment%
 git push mydemo master
 pause;
