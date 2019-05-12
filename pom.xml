@@ -29,7 +29,7 @@
         <commonspool2>2.6.2</commonspool2>
         <spring.version>5.1.7.RELEASE</spring.version>
         <fastjson.version>1.2.58</fastjson.version>
-        <fileupload.version>1.3.2</fileupload.version>
+        <fileupload.version>1.4</fileupload.version>
         <slf4jnop>1.7.25</slf4jnop>
     </properties>
 
